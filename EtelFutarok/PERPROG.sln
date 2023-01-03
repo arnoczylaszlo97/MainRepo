@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtelFutarok", "EtelFutarok\EtelFutarok.csproj", "{DBF14167-3F76-4E38-A63A-6F53AEB4E4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Etelfutarok2.0", "Etelfutarok2.0\Etelfutarok2.0.csproj", "{77A44F7B-D724-4251-8064-452ABB6FC187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelapoSzim", "TelapoSzim\TelapoSzim.csproj", "{57281092-0C07-4640-98A9-1C959C881275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Futoverseny", "Futoverseny\Futoverseny.csproj", "{2D1B0E9A-5AA4-423C-8CBD-4C00D81049D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParhuzamosKiiras", "ParhuzamosKiiras\ParhuzamosKiiras.csproj", "{C41216EA-AEC0-4481-B957-DA7980EE5D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsirkeFutar", "CsirkeFutar\CsirkeFutar.csproj", "{2DEDE998-069B-4C56-BA99-06A1362D6F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF14167-3F76-4E38-A63A-6F53AEB4E4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF14167-3F76-4E38-A63A-6F53AEB4E4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF14167-3F76-4E38-A63A-6F53AEB4E4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF14167-3F76-4E38-A63A-6F53AEB4E4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A44F7B-D724-4251-8064-452ABB6FC187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A44F7B-D724-4251-8064-452ABB6FC187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A44F7B-D724-4251-8064-452ABB6FC187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A44F7B-D724-4251-8064-452ABB6FC187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57281092-0C07-4640-98A9-1C959C881275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57281092-0C07-4640-98A9-1C959C881275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57281092-0C07-4640-98A9-1C959C881275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57281092-0C07-4640-98A9-1C959C881275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1B0E9A-5AA4-423C-8CBD-4C00D81049D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1B0E9A-5AA4-423C-8CBD-4C00D81049D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1B0E9A-5AA4-423C-8CBD-4C00D81049D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1B0E9A-5AA4-423C-8CBD-4C00D81049D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41216EA-AEC0-4481-B957-DA7980EE5D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41216EA-AEC0-4481-B957-DA7980EE5D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41216EA-AEC0-4481-B957-DA7980EE5D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41216EA-AEC0-4481-B957-DA7980EE5D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEDE998-069B-4C56-BA99-06A1362D6F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEDE998-069B-4C56-BA99-06A1362D6F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEDE998-069B-4C56-BA99-06A1362D6F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEDE998-069B-4C56-BA99-06A1362D6F70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D823DD57-C44F-4220-9F72-FEB0D10F8945}
+	EndGlobalSection
+EndGlobal

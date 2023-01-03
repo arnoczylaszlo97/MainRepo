@@ -1,0 +1,6 @@
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\EtelFutarok\bin\Debug\EtelFutarok.exe.config
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\EtelFutarok\bin\Debug\EtelFutarok.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\EtelFutarok\bin\Debug\EtelFutarok.pdb
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\EtelFutarok\obj\Debug\EtelFutarok.csproj.CoreCompileInputs.cache
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\EtelFutarok\obj\Debug\EtelFutarok.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\EtelFutarok\obj\Debug\EtelFutarok.pdb

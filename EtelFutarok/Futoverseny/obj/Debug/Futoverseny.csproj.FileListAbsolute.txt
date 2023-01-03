@@ -1,0 +1,7 @@
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Futoverseny\bin\Debug\Futoverseny.exe.config
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Futoverseny\bin\Debug\Futoverseny.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Futoverseny\bin\Debug\Futoverseny.pdb
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Futoverseny\obj\Debug\Futoverseny.csproj.AssemblyReference.cache
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Futoverseny\obj\Debug\Futoverseny.csproj.CoreCompileInputs.cache
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Futoverseny\obj\Debug\Futoverseny.exe
+C:\Users\ArnóczyLászlóVince\source\repos\EtelFutarok\Futoverseny\obj\Debug\Futoverseny.pdb
